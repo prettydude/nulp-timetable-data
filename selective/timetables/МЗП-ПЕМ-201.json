@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Стоцько З.А., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=74fa39ff-d8b3-417b-80c2-f69b9b0c9f52&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWNmYjNkNmQtODcyMS00ZWY5LWE2ZWUtZDA1YjZiMzM2OTlj@thread.v2&messageId=0&language=uk-UA",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Ребот Д.П., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3ada851749d8994f3e88948ddbf62cd506%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=fdc8f165-c2c5-4350-9e5c-d5ea3e858ea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

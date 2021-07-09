@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Обладнання та транспорт механообробних цехів",
+        "lecturer": "Новіцький Ю.Я., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzU0YTA4NTItZTg4OS00ZDdmLTk2NGYtMjYyYjk0OTVkZDYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240832a19-45a6-48c9-8443-46e8caa7ca62%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Верстати з  числовим програмним керуванням",
+        "lecturer": "Гурей В.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a79143b285ff94f3c8c18d412547fca87%40thread.tacv2/1613344407975?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Верстати з  числовим програмним керуванням",
+        "lecturer": "Гурей В.І., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a79143b285ff94f3c8c18d412547fca87%40thread.tacv2/1613421059597?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування робототехнічних систем, частина 2",
+        "lecturer": "Корендій В.М., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjUzNDFhNzItMzFlNS00MTlkLWI5NGQtMTg5MGZlYTMyNzgx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260a8475-6051-4e83-8fbd-a1e7e7bfefe5%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Верстати з  числовим програмним керуванням",
+        "lecturer": "Гурей В.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a79143b285ff94f3c8c18d412547fca87%40thread.tacv2/1613421138855?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування робототехнічних систем, частина 2",
+        "lecturer": "Корендій В.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NlNTExZTctODJkZC00MWVmLWFhNjctZWZiZWI0NjkxMzQ2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260a8475-6051-4e83-8fbd-a1e7e7bfefe5%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Обладнання та транспорт механообробних цехів",
+        "lecturer": "Новіцький Ю.Я., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3ae688efe3a2e24fd7b9aea764b28dd147%40thread.tacv2/conversations?groupId=5acdc0d9-1f82-4e11-9c11-ba5bdde4c644&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

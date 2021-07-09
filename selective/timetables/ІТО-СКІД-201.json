@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Марковець О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/message/19:8347db92e6484291a9884a365ec82342@thread.tacv2/1613234801428?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=ad6427eb-6392-4d46-9dff-939610e6f7a7&parentMessageId=1613234801428&teamName=%D0%86%D0%A2%D0%9E%D0%91%20%D0%BE%D1%81%D1%96%D0%BD%D1%8C%202020&channelName=%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-201%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-202%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-203&createdTime=1613234801428",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Марковець О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/message/19:8347db92e6484291a9884a365ec82342@thread.tacv2/1613236876348?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=ad6427eb-6392-4d46-9dff-939610e6f7a7&parentMessageId=1613236876348&teamName=%D0%86%D0%A2%D0%9E%D0%91%20%D0%BE%D1%81%D1%96%D0%BD%D1%8C%202020&channelName=%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-201%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-202%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-203&createdTime=1613236876348",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Марковець О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/message/19:8347db92e6484291a9884a365ec82342@thread.tacv2/1613236951874?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=ad6427eb-6392-4d46-9dff-939610e6f7a7&parentMessageId=1613236951874&teamName=%D0%86%D0%A2%D0%9E%D0%91%20%D0%BE%D1%81%D1%96%D0%BD%D1%8C%202020&channelName=%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-201%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-202%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-203&createdTime=1613236951874",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/mrd-yiod-xme",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/mrd-yiod-xme",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/vqt-vfvt-dve",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

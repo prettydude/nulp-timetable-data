@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Ділова іноземна мова",
+        "lecturer": "Закаулова Ю.В., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/74280231351?pwd=RGNDR0lwV2loTXVJU1lPNU52bWZNdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

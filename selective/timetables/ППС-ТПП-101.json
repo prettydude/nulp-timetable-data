@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Практична психологія",
+        "lecturer": "Березовська Л.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a6e71fc5bf3c14f6a9ebc1f2382f1eee5%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=1e40d7b1-cd44-4118-be3e-1c4fdc2bd8fa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Практична психологія",
+        "lecturer": "Березовська Л.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a6e71fc5bf3c14f6a9ebc1f2382f1eee5%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=1e40d7b1-cd44-4118-be3e-1c4fdc2bd8fa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

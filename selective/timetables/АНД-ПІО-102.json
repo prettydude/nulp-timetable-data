@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Андрогогіка",
+        "lecturer": "Вихрущ В.О., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/81221524857?pwd=SklMSU5JOUtYQlB1ZzdCRE82ZzAzUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Андрогогіка",
+        "lecturer": "Гузій І.С., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

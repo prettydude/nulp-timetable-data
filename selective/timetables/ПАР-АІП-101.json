@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Проблеми адміністративного права",
+        "lecturer": "Гулак Л.С., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/93965823674?pwd=dFJ4Z21yc0hLcTcxOWRNOWNCeTJYZz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проблеми адміністративного права",
+        "lecturer": "Сливка М.М., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/93024316148?pwd=SVBVOVRjdzRIYnZlaEQ3bTU1WjUxdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проблеми адміністративного права",
+        "lecturer": "Сливка М.М., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/92871892681?pwd=cVJ5L1NtVXpLbUNxWWlTckhvMWZudz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

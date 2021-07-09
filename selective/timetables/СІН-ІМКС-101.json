@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Студії з історії та наукової спадщини львівської політехніки",
+        "lecturer": "Кузьмин Р.Я., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/77964362309?pwd=aUxBelJIUE5CdHp1Q1hUQXZFSVFXQT09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Студії з історії та наукової спадщини львівської політехніки",
+        "lecturer": "Кузьмин Р.Я., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/72115863246?pwd=d3BDYk1kbk9oMlZDWU92eExuZGFEQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

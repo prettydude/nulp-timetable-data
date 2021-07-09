@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Громадська думка і PR",
+        "lecturer": "Проскура В.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3acd4cc793808f4585818d37d062dac1ff%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=e337aae3-6b03-4fbf-8b23-364b2a4ec9e4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Громадська думка і PR",
+        "lecturer": "Проскура В.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3acd4cc793808f4585818d37d062dac1ff%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=e337aae3-6b03-4fbf-8b23-364b2a4ec9e4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

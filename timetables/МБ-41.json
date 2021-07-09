@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Комп`ютерний дизайн в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/91713236383?pwd=aGtpVWRrbWpkWjI0K0lYb24wUlYwUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Назаркевич С.М., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/75594091848?pwd=RnduRDJSRmJKeWlUa1VvbkNzRlo5dz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатаційні матеріали",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=9eecc27a-6273-41a5-be38-987f42bd7ab9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_b7f80b7e8d31461a9d99cd70f13a098b@thread.tacv2&messageId=1612856022653&language=uk-UA",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Назаркевич С.М., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/78902508113?pwd=b1dpc2lVenRab25zN0JXUER6Qmdidz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерний дизайн в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/98214223337?pwd=YURCVGRtbzV1cWVwS3h6OG1yblQ4UT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерний дизайн в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/91097406592?pwd=d0ZLcGJ1NktQcUtBeE9BRVRGNFZIZz09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатаційні матеріали",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=9eecc27a-6273-41a5-be38-987f42bd7ab9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_b7f80b7e8d31461a9d99cd70f13a098b@thread.tacv2&messageId=1612854941763&language=uk-UA",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

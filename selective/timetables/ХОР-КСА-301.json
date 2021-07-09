@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Хмарні обчислення та візуалізація інформаційних ресурсів",
+        "lecturer": "Федак В.І., ",
+        "location": " Лекція",
+        "url": "https://softserveinc.zoom.us/j/92283589260?pwd=d0g5YVB2aWlzdEIyRTJaTXQ2N3RXUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Хмарні обчислення та візуалізація інформаційних ресурсів",
+        "lecturer": "Федак В.І., ",
+        "location": " Лабораторна",
+        "url": "https://softserveinc.zoom.us/j/92283589260?pwd=d0g5YVB2aWlzdEIyRTJaTXQ2N3RXUT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні обчислення та візуалізація інформаційних ресурсів",
+        "lecturer": "Федак В.І., ",
+        "location": ", Лабораторна",
+        "url": "https://softserveinc.zoom.us/j/92283589260?pwd=d0g5YVB2aWlzdEIyRTJaTXQ2N3RXUT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

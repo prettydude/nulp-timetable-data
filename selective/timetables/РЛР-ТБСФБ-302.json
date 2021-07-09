@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Ресурсознавство лікарських рослин",
+        "lecturer": "Конечна Р.Т., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a74e950136c9c4dc084bc9f3501b63a9a%40thread.tacv2/conversations?groupId=20ebb5be-0fe0-4c7c-a9bb-11eb85313920&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Ресурсознавство лікарських рослин",
+        "lecturer": "Конечна Р.Т., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a74e950136c9c4dc084bc9f3501b63a9a%40thread.tacv2/conversations?groupId=20ebb5be-0fe0-4c7c-a9bb-11eb85313920&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "Козак Х.Р., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3abfad36c67ff4449e97867b882a468435%40thread.tacv2/conversations?groupId=3b3ebb56-c585-4480-a0f2-5349ca1b9d78&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "Козак Х.Р., ",
+        "location": ", Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3abfad36c67ff4449e97867b882a468435%40thread.tacv2/conversations?groupId=3b3ebb56-c585-4480-a0f2-5349ca1b9d78&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "Козак Х.Р., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3abfad36c67ff4449e97867b882a468435%40thread.tacv2/conversations?groupId=3b3ebb56-c585-4480-a0f2-5349ca1b9d78&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

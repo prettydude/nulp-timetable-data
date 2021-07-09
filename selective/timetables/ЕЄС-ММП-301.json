@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "Чернобай Л.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3ad68c882587ce48938a73b8a33abf8c82%40thread.tacv2/conversations?groupId=c2228180-ff79-499d-afab-0a2b8364eb42&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "Ясінська Т.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a5ba4cb9a02dd401fa7ae0a69404ef4f1%40thread.tacv2/General?groupId=1d8b76c4-0c7a-44e3-9a94-632da3b41c7f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "Ясінська Т.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a5ba4cb9a02dd401fa7ae0a69404ef4f1%40thread.tacv2/General?groupId=1d8b76c4-0c7a-44e3-9a94-632da3b41c7f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

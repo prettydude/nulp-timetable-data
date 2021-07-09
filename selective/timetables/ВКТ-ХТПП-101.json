@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Використання комп`ютерних технологій у виробництві та переробленні полімерів",
+        "lecturer": "Красінський В.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a1abda5ae9ee64331aef8e5b5134f3e8b%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597%2520%25D0%25B7%2520%25D0%25BA%25D1%2583%25D1%2580%25D1%2581%25D1%2583%2520(%25D0%259F%25D0%25BE%25D0%25BD%25D0%25B5%25D0%25B4%25D1%2596%25D0%25BB%25D0%25BE%25D0%25BA%25206%2520%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B0)?groupId=8de18df3-58b1-4958-af68-e009ce073f3b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Використання комп`ютерних технологій у виробництві та переробленні полімерів",
+        "lecturer": "Красінський В.В., Моравський В.С., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/channel/19%3ad239fdfb78f140568848eee740dd9cd3%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8%2520%25D0%25B7%2520%25D0%25BA%25D1%2583%25D1%2580%25D1%2581%25D1%2583%2520(%25D0%259F%25D1%2582%25204-5%2520%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B0%2520%25D1%2587%25D0%25B8%25D1%2581%25D0%25B5%25D0%25BB%25D1%258C%25D0%25BD.)?groupId=8de18df3-58b1-4958-af68-e009ce073f3b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a,,%20https://us02web.zoom.us/j/8062909697?pwd=SXhmOVZLMytIQzNuakJHK091V0dwUT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Використання комп`ютерних технологій у виробництві та переробленні полімерів",
+        "lecturer": "Красінський В.В., Моравський В.С., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/channel/19%3ad239fdfb78f140568848eee740dd9cd3%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8%2520%25D0%25B7%2520%25D0%25BA%25D1%2583%25D1%2580%25D1%2581%25D1%2583%2520(%25D0%259F%25D1%2582%25204-5%2520%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B0%2520%25D1%2587%25D0%25B8%25D1%2581%25D0%25B5%25D0%25BB%25D1%258C%25D0%25BD.)?groupId=8de18df3-58b1-4958-af68-e009ce073f3b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a,,%20https://us02web.zoom.us/j/8062909697?pwd=SXhmOVZLMytIQzNuakJHK091V0dwUT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

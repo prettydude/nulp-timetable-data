@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтегровані транспортні системи в міській логістиці",
+        "lecturer": "Гілевич В.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a14c74ff0c88f408caef1d65ba0c0dfec%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=5f6ce5eb-f4ce-48f4-98bc-56140f44463e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інтегровані транспортні системи в міській логістиці",
+        "lecturer": "Гілевич В.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a14c74ff0c88f408caef1d65ba0c0dfec%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=5f6ce5eb-f4ce-48f4-98bc-56140f44463e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

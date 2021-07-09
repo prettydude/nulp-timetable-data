@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Візуалізація даних",
+        "lecturer": "Гавриш Б.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/99503822904?pwd=UThTRFJ3WFVDMlRsdUdRVitJLzNOUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Візуалізація даних",
+        "lecturer": "Гавриш Б.М., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/99690145675?pwd=VmRublVMUm1RWlhLeUFsWVZYNXowQT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

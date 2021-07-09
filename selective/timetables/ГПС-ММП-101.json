@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Глобальні проблеми світового господарства та міжнародних економічних відносин",
+        "lecturer": "Пирог О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a3915443a716747d4ac3e899d96705140%40thread.tacv2/conversations?groupId=15e922fe-d252-4046-9962-24f55e23ddd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Глобальні проблеми світового господарства та міжнародних економічних відносин",
+        "lecturer": "Колінко Н.О., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3a3915443a716747d4ac3e899d96705140%40thread.tacv2/conversations?groupId=15e922fe-d252-4046-9962-24f55e23ddd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Глобальні проблеми світового господарства та міжнародних економічних відносин",
+        "lecturer": "Колінко Н.О., ",
+        "location": ", Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3a3915443a716747d4ac3e899d96705140%40thread.tacv2/conversations?groupId=15e922fe-d252-4046-9962-24f55e23ddd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

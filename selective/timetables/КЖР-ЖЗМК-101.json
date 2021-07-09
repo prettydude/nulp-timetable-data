@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Культурологічна журналістика",
+        "lecturer": "Білограць Х.Р., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/84625423739?pwd=OTFyZGh1WUYxa3VuTWhmemFsY1pHUT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Культурологічна журналістика",
+        "lecturer": "Білограць Х.Р., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/86950560453?pwd=SEE1WGQ5eVluUDR3UU0zSnNpUTBndz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Математичне моделювання зварювальних процесів",
+        "lecturer": "Дзюбик А.Р., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/82724743241?pwd=OTZJeWpPM2VDLyswNUZXNnN5OGlpQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Математичне моделювання зварювальних процесів",
+        "lecturer": "Дзюбик А.Р., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/82724743241?pwd=OTZJeWpPM2VDLyswNUZXNnN5OGlpQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

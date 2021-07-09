@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Культуровідповідність соціальних послуг",
+        "lecturer": "Ставкова С.Г., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a07670d15d8ca49b9bf493f2a89a2d608%40thread.tacv2/conversations?groupId=0f845826-4098-4536-acf4-346f4e38289b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Культуровідповідність соціальних послуг",
+        "lecturer": "Ставкова С.Г., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a07670d15d8ca49b9bf493f2a89a2d608%40thread.tacv2/conversations?groupId=0f845826-4098-4536-acf4-346f4e38289b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

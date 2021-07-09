@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Корендій В.М., ",
+        "location": " Лекція",
+        "url": "",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Корендій В.М., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGNhZmE0NjktNzQwZS00M2JjLTkwNTUtZWQ0NWI0YzcxYzhl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260a8475-6051-4e83-8fbd-a1e7e7bfefe5%22%7d",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

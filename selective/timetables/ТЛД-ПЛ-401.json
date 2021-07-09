@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Комп`ютерні технології лінгвістичних досліджень",
+        "lecturer": "Таран О.С., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/ytu-ucsr-qwu",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні технології лінгвістичних досліджень",
+        "lecturer": "Таран О.С., ",
+        "location": ", Практична",
+        "url": "https://meet.google.com/ytu-ucsr-qwu",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

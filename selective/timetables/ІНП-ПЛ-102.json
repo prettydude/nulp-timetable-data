@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Добош О.С., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/81637730041?pwd=WGxMb3lRUjNnVWtuZzJSekYwTVVvUT09%20%20%20%20Meeting%20ID:%20816%203773%200041%20%20Passcode:%20HdZ4KY",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Добош О.С., ",
+        "location": ", Практична",
+        "url": "https://us02web.zoom.us/j/82474516655?pwd=UnAveFhqSUdpTHY3c3lwSjNmampQdz09%20%20%20%20Meeting%20ID:%20824%207451%206655%20%20Passcode:%204RgCsu",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

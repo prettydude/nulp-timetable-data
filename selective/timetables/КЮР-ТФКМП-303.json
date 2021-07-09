@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "Попадинець Г.О., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/84486424165?pwd=eTArWmFaQmROek5CVVcxYUc5OXdWZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "Мельниченко Б.Б., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/83887467561?pwd=a1JXa05zTk45Y3o1Q3dJNmZxT2IwQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

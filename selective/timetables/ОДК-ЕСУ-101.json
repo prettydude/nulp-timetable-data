@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Оперативно-диспетчерське керування електроенергетичними системами",
+        "lecturer": "Козовий А.Б., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a40f9409bc3ff4159a0875620fd0cf80c%40thread.tacv2/1613481199517?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207c227f2-e327-4e08-9dbf-337acacc1d07%22%7d",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Оперативно-диспетчерське керування електроенергетичними системами",
+        "lecturer": "Пастух О.Р., ",
+        "location": ", Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=de288d96-368d-4660-a190-3a49fe15e38b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_c841b254dbe84495870bbe81a60c7417@thread.tacv2&messageId=1613404617728&language=ru-RU",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оперативно-диспетчерське керування електроенергетичними системами",
+        "lecturer": "Пастух О.Р., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=de288d96-368d-4660-a190-3a49fe15e38b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_53cff08d14bf4729b2c47b50fe673553@thread.tacv2&messageId=1613219962704&language=ru-RU",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Альбота С.М., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/9199273450?pwd=aHlOaXkwdmpHTjBVektDWGEwaTNjQT09%20%20Meeting%20ID:%20919%20927%203450%20Passcode:%20i95Gnq",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Альбота С.М., ",
+        "location": ", Практична",
+        "url": "https://zoom.us/j/9199273450?pwd=aHlOaXkwdmpHTjBVektDWGEwaTNjQT09%20%20Meeting%20ID:%20919%20927%203450%20Passcode:%20i95Gnq",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

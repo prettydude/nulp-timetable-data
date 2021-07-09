@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Сигнальні процесори в системах захисту інформації",
+        "lecturer": "Гарасимчук О.І., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Сигнальні процесори в системах захисту інформації",
+        "lecturer": "Гарасимчук О.І., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Енергетична безпека",
+        "lecturer": "Лукач Н.М., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/83262620078?pwd=V1NMZlpCSGdhbkduMC80SFA1Z3RUZz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Енергетична безпека",
+        "lecturer": "Лемко Ю.Р., ЕЕСМ-11+ЕЕЕС-11",
+        "location": " Практична",
+        "url": "",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

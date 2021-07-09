@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Давіденко І.Є., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a12d14dfe53a44cc0ad3d889eb9e15e49%40thread.tacv2/conversations?groupId=c1a47bdd-7186-4104-ac42-2212109f81ef&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Давіденко І.Є., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a12d14dfe53a44cc0ad3d889eb9e15e49%40thread.tacv2/conversations?groupId=c1a47bdd-7186-4104-ac42-2212109f81ef&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

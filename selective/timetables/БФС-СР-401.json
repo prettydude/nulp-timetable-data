@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Батьківство у фокусі соціології",
+        "lecturer": "Уманець Н.А., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/9914050620?pwd=Tkc4VkhaS1hDV1ZZZmdZZ1IwN0lwdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Батьківство у фокусі соціології",
+        "lecturer": "Уманець Н.А., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/9914050620?pwd=Tkc4VkhaS1hDV1ZZZmdZZ1IwN0lwdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Батьківство у фокусі соціології",
+        "lecturer": "Уманець Н.А., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/9914050620?pwd=Tkc4VkhaS1hDV1ZZZmdZZ1IwN0lwdz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

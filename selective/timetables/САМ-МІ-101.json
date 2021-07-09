@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Самоменеджмент",
+        "lecturer": "Гачкевич А.О., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/98741811754?pwd=QWRpNXhDakdUVkdoVG5tOG9wbE1oQT09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Самоменеджмент",
+        "lecturer": "Юськів Х.В., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/9708645740?pwd=RndnREZ2anQ5emlsS2RtTmVZK0RxQT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Лінгвістичне забезпечення комп`ютерних систем проектування",
+        "lecturer": "Корпильов Д.В., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/bdt-oubw-yij?authuser=0",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Лінгвістичне забезпечення комп`ютерних систем проектування",
+        "lecturer": "Корпильов Д.В., ",
+        "location": ", Лабораторна",
+        "url": "https://meet.google.com/bdt-oubw-yij?authuser=0",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Лінгвістичне забезпечення комп`ютерних систем проектування",
+        "lecturer": "Корпильов Д.В., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/bdt-oubw-yij?authuser=0",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    }
+]

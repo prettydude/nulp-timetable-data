@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Волошин М.М., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/71961307191?pwd=bW5mZ3VKc0tOc0orcGROTGNSUjVOUT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    }
+]

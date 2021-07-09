@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "Сабадаш В.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQ3ZGZlZjQtOGM3Ny00YzRjLTkxNzAtNjM4ODA1MmE4N2Nk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологічні та правові аспекти раціонального природокористування",
+        "lecturer": "Одноріг З.С., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Утилізація промислових та побутових відходів",
+        "lecturer": "Ятчишин Ю.Й., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a65fa712300e741c29628f715eae3456c%40thread.tacv2/1613238581378?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні та правові аспекти раціонального природокористування",
+        "lecturer": "Одноріг З.С., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "Дячок В.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=a02962fb-e4c2-4107-b0b2-b10ef34fded8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_4959e3bc8947408383338cda19957ecb@thread.tacv2&messageId=1601287478781&language=ru-RU",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Утилізація промислових та побутових відходів",
+        "lecturer": "Попович О.Р., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a55f97304dc60480690b7d4647e386df0%40thread.tacv2/1612987753349?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "Дячок В.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a4959e3bc8947408383338cda19957ecb%40thread.tacv2/1601287478781?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

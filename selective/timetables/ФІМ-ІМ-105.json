@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "Олексів Г.Д., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/qya-ttas-iqp",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

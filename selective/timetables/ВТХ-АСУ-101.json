@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Відео технології",
+        "lecturer": "Міюшкович Ю.Г., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/uoi-ghpc-iyb",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Відео технології",
+        "lecturer": "Міюшкович Ю.Г., ",
+        "location": ", Лабораторна",
+        "url": "https://meet.google.com/uoi-ghpc-iyb",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Відео технології",
+        "lecturer": "Марцишин Р.С., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/fsc-qzwk-gfh",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

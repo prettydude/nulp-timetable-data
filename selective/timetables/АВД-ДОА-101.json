@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Арт-веб дизайн",
+        "lecturer": "Проскуряков О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3ae607e99b2958421f8a2c280e0e313a00%40thread.tacv2/conversations?groupId=fafe5a79-3d1d-48bf-924f-b26d603d92ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Арт-веб дизайн",
+        "lecturer": "Проскуряков О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3ae607e99b2958421f8a2c280e0e313a00%40thread.tacv2/conversations?groupId=fafe5a79-3d1d-48bf-924f-b26d603d92ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Арт-веб дизайн",
+        "lecturer": "Проскуряков О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3ae607e99b2958421f8a2c280e0e313a00%40thread.tacv2/conversations?groupId=fafe5a79-3d1d-48bf-924f-b26d603d92ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

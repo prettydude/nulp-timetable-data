@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "Майструк В.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions?language=uk-ua&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&organizerId=d9af725a-41cc-499a-9599-245acef05309&threadId=19_meeting_NjU5YWM4MWMtNGViZC00MWNkLWI2M2UtMWIwOWYwOTQ2NjQy@thread.v2&messageId=0&correlationId=webclient:55ca81a7-5abd-43a1-84f0-7130c0c11f46",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "Майструк В.В., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions?language=uk-ua&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&organizerId=d9af725a-41cc-499a-9599-245acef05309&threadId=19_meeting_MDMwYjBiOGQtYTJkYi00NDBiLTk3YWItZGYxOWExNWEzZTQ0@thread.v2&messageId=0&correlationId=webclient:e26a77c6-bfb2-443d-99bf-d5f6c2f37a7d",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

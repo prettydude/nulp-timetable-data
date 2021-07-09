@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна та інноваційна культура",
+        "lecturer": "Ситник Й.С., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a0a7478e83b9f4749ad1e1af8d242bbac%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a8a0ca7a-75f9-46c7-b580-594f2bb82426&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна та інноваційна культура",
+        "lecturer": "Ситник Й.С., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a0a7478e83b9f4749ad1e1af8d242bbac%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a8a0ca7a-75f9-46c7-b580-594f2bb82426&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "Грибик І.І., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/2077007226?pwd=OFF4N1loQ2lwT1RPcTd6SlJydzNkUT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "Грибик І.І., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/818782653?pwd=bTFqV2hpMHhCM0cxN3pwTkZnM244dz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

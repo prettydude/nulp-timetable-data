@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Подольчак Н.Ю., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a5a0b54e2efd24aba971a26a28b1dd94f%40thread.tacv2/conversations?groupId=703bcbd4-8f62-4267-99b7-1d71719ee704&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Чепіль Б.А., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmRkOWI5OTEtOTMyYS00ZGNlLThkM2MtMDA1MGI3YmJkNDBm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22548a3bb8-d4c1-427d-80aa-ebfb7c6e392b%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

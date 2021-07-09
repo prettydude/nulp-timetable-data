@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Чорнописька Н.В., Крикавський Є.В., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/7915662978?pwd=dDdCY0RWMVZkYVpLT1A5WWdVSHFJZz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Чорнописька Н.В., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/89730711344?pwd=dVBjZlVrenhFelV1NEFNUjdBNm5TQT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

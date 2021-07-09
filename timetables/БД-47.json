@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шуляр Р.А., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Підземні транспортні споруди",
+        "lecturer": "Мурин А.Я., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Njg3MWVmZDctZTNhYy00ZDg2LWE4OTgtYmIxZmRlNmFmZmE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c996cc70-ca62-409d-9dcb-48cfe7fd8b8a%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Підземні транспортні споруди",
+        "lecturer": "Мурин А.Я., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjkyMmEwYjUtOTA2NS00ZGM3LTkyMTYtOGYxODFmZTZkNTkw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c996cc70-ca62-409d-9dcb-48cfe7fd8b8a%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шуляр Р.А., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Підземні транспортні споруди",
+        "lecturer": "Мурин А.Я., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWYxZGVlMWItZWIxOS00ZDJhLTk0NDYtOTk4MjhjZDI1MTcw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c996cc70-ca62-409d-9dcb-48cfe7fd8b8a%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/5424495718",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/5424495718",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

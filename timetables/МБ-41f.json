@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Випробування автомобілів",
+        "lecturer": "Горбай О.З., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/96310297130?pwd=ODJXUFBmTDdSV0E0amthZU01RFBvUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Випробування автомобілів",
+        "lecturer": "Горбай О.З., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/95829260308?pwd=c09SZTFGeXluMHFIakJJYm0wQ3NxQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сертифікаційні випробовування автомобіля",
+        "lecturer": "Горбай О.З., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/98308137138?pwd=NjN3WHBKRVJRVGtkdStJcmlLTmcrQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сертифікаційні випробовування автомобіля",
+        "lecturer": "Горбай О.З., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/91453953133?pwd=b1plc0JuNUpZbjRGY2hRcHNXektJQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сертифікаційні випробовування автомобіля",
+        "lecturer": "Горбай О.З., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/98384599957?pwd=dHhwVldocnpmRFRrbTRsbHc4aitCUT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів",
+        "lecturer": "Горбай О.З., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/98308137138?pwd=NjN3WHBKRVJRVGtkdStJcmlLTmcrQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів",
+        "lecturer": "Горбай О.З., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/98308137138?pwd=NjN3WHBKRVJRVGtkdStJcmlLTmcrQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

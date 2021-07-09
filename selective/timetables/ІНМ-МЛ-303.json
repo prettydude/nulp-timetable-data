@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "Дмитрів А.Я., Довгунь О.С., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3ab9c0af23f4fa4246ac335edd71194799%40thread.tacv2/General?groupId=f1c42c19-ed8d-4496-ac60-54601cdd8ae0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a,,%20https://teams.microsoft.com/l/channel/19%3ab9c0af23f4fa4246ac335edd71194799%40thread.tacv2/General?groupId=f1c42c19-ed8d-4496-ac60-54601cdd8ae0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "Дмитрів А.Я., Довгунь О.С., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3ab9c0af23f4fa4246ac335edd71194799%40thread.tacv2/General?groupId=f1c42c19-ed8d-4496-ac60-54601cdd8ae0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a,,%20https://teams.microsoft.com/l/channel/19%3ab9c0af23f4fa4246ac335edd71194799%40thread.tacv2/General?groupId=f1c42c19-ed8d-4496-ac60-54601cdd8ae0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "Дмитрів А.Я., Довгунь О.С., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3ab9c0af23f4fa4246ac335edd71194799%40thread.tacv2/General?groupId=f1c42c19-ed8d-4496-ac60-54601cdd8ae0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a,,%20https://teams.microsoft.com/l/channel/19%3ab9c0af23f4fa4246ac335edd71194799%40thread.tacv2/General?groupId=f1c42c19-ed8d-4496-ac60-54601cdd8ae0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

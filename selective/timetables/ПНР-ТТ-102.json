@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "Бойків М.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3add745c6c321f4202aeeab46a1ad682c8%40thread.tacv2/conversations?groupId=b891be5a-6def-4f2f-bfdd-eb72de39762f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "Бойків М.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3add745c6c321f4202aeeab46a1ad682c8%40thread.tacv2/conversations?groupId=b891be5a-6def-4f2f-bfdd-eb72de39762f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

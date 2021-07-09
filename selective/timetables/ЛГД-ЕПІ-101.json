@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "Зарицька О.Л., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/79288871567?pwd=d0k5N0toQmp0ZnpEbEg0dmMxVmY5UT09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "Зарицька О.Л., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/79288871567?pwd=d0k5N0toQmp0ZnpEbEg0dmMxVmY5UT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    }
+]

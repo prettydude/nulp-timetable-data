@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Банкрутство",
+        "lecturer": "Бондарчук М.К., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a8d86026018814c349922b84872b37798%40thread.tacv2/%25D0%2591%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2580%25D1%2583%25D1%2582%25D1%2581%25D1%2582%25D0%25B2%25D0%25BE?groupId=d9e85548-24f7-4d6a-8d3c-549737b27a7a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Банкрутство",
+        "lecturer": "Желізняк Р.Й., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a8d86026018814c349922b84872b37798%40thread.tacv2/1612952599813?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f330a9c-43ef-4a55-a811-de098e038a0d%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

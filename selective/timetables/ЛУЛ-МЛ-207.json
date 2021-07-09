@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Чорнописька Н.В., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/89730711344?pwd=dVBjZlVrenhFelV1NEFNUjdBNm5TQT09%20%20Meeting%20ID:%20897%203071%201344%20Passcode:%207i5Ctz",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Довгунь О.С., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3ae04d289488e54c43a83350eaace6199e%40thread.tacv2/General?groupId=0fb78a71-d837-470f-b557-436e6ae00616&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

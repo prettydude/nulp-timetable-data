@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Управління персоналом в торговельному підприємстві",
+        "lecturer": "Данько Т.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/message/19:0581387caf1841c1bbb31464a2bce5a2@thread.tacv2/1613146950216?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=6b345d59-a20f-4c57-aa26-4edf08fe1fb3&parentMessageId=1613146950216&teamName=%D0%A3%D0%9F%D0%A2%D0%9F%20%D0%9F%D0%A2-31&channelName=%D0%9E%D0%B1%D1%89%D0%B8%D0%B9&createdTime=1613146950216",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління персоналом в торговельному підприємстві",
+        "lecturer": "Данько Т.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/message/19:0581387caf1841c1bbb31464a2bce5a2@thread.tacv2/1613218781099?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=6b345d59-a20f-4c57-aa26-4edf08fe1fb3&parentMessageId=1613218781099&teamName=%D0%A3%D0%9F%D0%A2%D0%9F%20%D0%9F%D0%A2-31&channelName=%D0%9E%D0%B1%D1%89%D0%B8%D0%B9&createdTime=1613218781099",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "Балацька Л.П., ",
+        "location": " Практична",
+        "url": "https://join.skype.com/pvUwjF9CnGIq",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

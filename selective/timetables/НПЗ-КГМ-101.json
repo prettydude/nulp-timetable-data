@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/gfn-uwaw-mpr",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності",
+        "lecturer": "Согор А.Р., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/gfn-uwaw-mpr",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

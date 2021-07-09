@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Fintech: основи та застосування фінансових технологій",
+        "lecturer": "Мазур А.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/message/19:7a0cb7bb807f458da012b9124f3d3286@thread.tacv2/1613404461335?groupId=d9e85548-24f7-4d6a-8d3c-549737b27a7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Fintech: основи та застосування фінансових технологій",
+        "lecturer": "Мазур А.В., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/message/19:7a0cb7bb807f458da012b9124f3d3286@thread.tacv2/1613404711618?groupId=d9e85548-24f7-4d6a-8d3c-549737b27a7a",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

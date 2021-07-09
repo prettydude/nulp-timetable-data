@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гамула П.Р., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a4f9d163eca724b98bea982ce62b541b8%40thread.tacv2/conversations?groupId=138c2a96-d793-4c30-92e8-129f7e41ded3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гамула П.Р., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a4f9d163eca724b98bea982ce62b541b8%40thread.tacv2/conversations?groupId=138c2a96-d793-4c30-92e8-129f7e41ded3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

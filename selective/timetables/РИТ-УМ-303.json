@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "Руденко С.О., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/76451114136?pwd=RTdhRjZ0eHdzT25PUHJqV1ErQzl1Zz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

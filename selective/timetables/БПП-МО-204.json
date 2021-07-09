@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Бізнес-планування діяльності підприємства",
+        "lecturer": "Прокопишин-Рашкевич Л.М., англ.мовою",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/85643080499?pwd=dDhhWUJxcFJBOUhtbWExVFprbE90UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20856%204308%200499%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%205555",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування діяльності підприємства",
+        "lecturer": "Гвоздь М.Я., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/78205725979?pwd=OENoTk5hOU1iNjh5dXRBbCtRSVhpZz09%20%20Meeting%20ID:%20782%200572%205979%20Passcode:%20cvs0Fu",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування діяльності підприємства",
+        "lecturer": "Гвоздь М.Я., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/75760289327?pwd=NFgxNHFBYWNVelNGTVZRSi9iTmd0QT09%20%20Meeting%20ID:%20757%206028%209327%20Passcode:%20NU1JX2",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    }
+]

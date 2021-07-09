@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Видобування великих даних",
+        "lecturer": "Хавалко В.М., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/96654716586?pwd=cWZRUThzcEN6eWw1RmJYVFQ2VW9vdz09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Видобування великих даних",
+        "lecturer": "Хавалко В.М., ",
+        "location": ", Лабораторна",
+        "url": "https://zoom.us/j/96654716586?pwd=cWZRUThzcEN6eWw1RmJYVFQ2VW9vdz09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Видобування великих даних",
+        "lecturer": "Шаховська Н.Б., ",
+        "location": " Лекція",
+        "url": "http://meet.google.com/aww-irez-zzh",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

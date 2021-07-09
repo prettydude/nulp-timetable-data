@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/5424495718",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/5424495718",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

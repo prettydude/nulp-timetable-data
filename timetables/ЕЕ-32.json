@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "Пришляк Я.Д., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a22235753876e4d23b1ef3b7265013675%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%252C34%2520(%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "Копчак Б.Л., Мороз В.І., Білецький Ю.О., ",
+        "location": " Лабораторна",
+        "url": "http://meet.google.com/dfe-posq-bgv",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "Николин Г.А., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "Николин Г.А., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

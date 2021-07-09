@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "Ільницька У.В., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/73071893228?pwd=dnZzaDlhWFU1QXZTTWJxWVlWQS94QT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "Ільницька У.В., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/75341977786?pwd=SlZZTTY1QUJqL2QwTWR4R1pGVGxQUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

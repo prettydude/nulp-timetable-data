@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "Ментинська І.Б., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ab6a5d6dd12f24420b688dc65f480c24e%40thread.tacv2/1613076133759?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22004e7458-a0bc-404b-b77f-f479d7da9c3e%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

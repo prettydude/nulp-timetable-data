@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Лебідь С.Ю., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/bjv-xrnb-eke",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Лебідь С.Ю., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/qnd-atpu-rjq",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Лебідь С.Ю., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/qnd-atpu-rjq",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

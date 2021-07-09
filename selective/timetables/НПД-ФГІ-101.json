@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності 1",
+        "lecturer": "Бабій Л.В., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/89044890716?pwd=TXBuRE9ZMVZMUVNtOTBTTXpXUDZ1dz09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності 1",
+        "lecturer": "Бабій Л.В., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/84486409992?pwd=cnBZQVZpWHRmZmZXYVd1cUxtZlpaUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

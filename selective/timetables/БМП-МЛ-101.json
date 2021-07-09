@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Бізнес-моделі підприємств",
+        "lecturer": "Гринкевич С.С., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/71059697730?pwd=ZDhKeGQzdTVhSjhHT2svVWxnZkFQQT09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Бізнес-моделі підприємств",
+        "lecturer": "Гринкевич С.С., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/79683045794?pwd=ckhzZlI2ZkpWZ1RjYzlWbW5SdlJRQT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

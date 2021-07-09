@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Програмування мобільних пристроїв",
+        "lecturer": "Досин Д.Г., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/mfi-zwpy-wih?hs=122&authuser=1",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

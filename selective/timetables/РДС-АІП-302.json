@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "Хомишин І.Ю., ",
+        "location": " Практична",
+        "url": "",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "Хомишин І.Ю., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/82195691809?pwd=UkFQNHlvQU9DRGttcGQ0Y1NSblh0Zz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

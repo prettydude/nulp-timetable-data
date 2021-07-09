@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "Дорошкевич К.О., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:6298fb351b2a4ddb8178280790c2843c@thread.tacv2&ctx=channel",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "Гнилянська Л.Й., ",
+        "location": ", Лабораторна",
+        "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmessage%2F19%3A959edac3c58940609d77c014bef6d405%40thread.tacv2%2F1612873289476%3FgroupId%3D7b62834f-71cc-42b2-8406-72ed5f8bad54&type=message&deeplinkId=6fbd2f7c-2c92-4bd4-af9a-2aad68d709ac&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "Гнилянська Л.Й., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmessage%2F19%3A959edac3c58940609d77c014bef6d405%40thread.tacv2%2F1612873631237%3FgroupId%3D7b62834f-71cc-42b2-8406-72ed5f8bad54&type=message&deeplinkId=ca651a73-1da7-4aab-9bfd-420697de2ac3&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

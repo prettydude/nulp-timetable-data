@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., ",
+        "location": " Лабораторна",
+        "url": "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., ",
+        "location": " Лабораторна",
+        "url": "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

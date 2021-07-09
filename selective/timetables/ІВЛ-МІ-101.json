@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гачкевич А.О., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/97249285082?pwd=aVBiZEpIYS9sOXowS00wSWQ4MGNIUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Анісімович-Шевчук О.З., ",
+        "location": " Практична",
+        "url": "https://www.google.com/url?q=https://zoom.us/j/94913765428?pwd%3DeXcwQUN2QmJVdDhESkdoby9CTC9XQT09&sa=D&source=calendar&ust=1616507597001000&usg=AOvVaw1Jkx9TdPBltHtoLBdy5rue",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

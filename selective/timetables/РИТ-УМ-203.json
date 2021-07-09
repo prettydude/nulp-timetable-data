@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "Харчук Л.В., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/99986591658?pwd=NmhJcytxS0FsaUxEcTBISXBBZm9sQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

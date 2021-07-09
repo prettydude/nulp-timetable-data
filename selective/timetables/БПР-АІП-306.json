@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Бюджетне право",
+        "lecturer": "Бліхар М.М., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/72224461618?pwd=RWw3WFdQbGd5SHNiaGFFczJHaXZuUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Бюджетне право",
+        "lecturer": "Дмитрик Ю.І., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/78134216876?pwd=UlJ2NDlqRTY1clU2NTV3TVJuT3hLUT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

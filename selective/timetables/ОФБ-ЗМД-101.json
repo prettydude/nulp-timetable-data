@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "Руда М.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=5484683b-d856-41e0-85ae-0645d513ccb8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_963cf80b5c2e4c12b7d45bfa40014e17@thread.tacv2&messageId=1612956896493&language=uk-UA",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "Руда М.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=5484683b-d856-41e0-85ae-0645d513ccb8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_963cf80b5c2e4c12b7d45bfa40014e17@thread.tacv2&messageId=1612956896493&language=uk-UA",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    }
+]

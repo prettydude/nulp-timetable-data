@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтернет-технології в навчанні",
+        "lecturer": "Стечкевич О.О., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/78796523498?pwd=TTliWEZKM25HdTN3ODNNUVRSOUV1dz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет-технології в навчанні",
+        "lecturer": "Стечкевич О.О., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/78796523498?pwd=TTliWEZKM25HdTN3ODNNUVRSOUV1dz09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

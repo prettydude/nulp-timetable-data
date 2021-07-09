@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Юридична компаративістика",
+        "lecturer": "Коваль І.М., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/gja-tvgj-gqm",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Юридична компаративістика",
+        "lecturer": "Корнелюк Ю.І., ",
+        "location": " Практична",
+        "url": "",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Соціологія конфлікту",
+        "lecturer": "Макух О.Є., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/9209743557?pwd=UkV2dWdwbWpBTVk0bWlYaWVQS1FQUT09%20%20Meeting%20ID:%20920%20974%203557%20Passcode:%20%20%20%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C915084",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Соціологія конфлікту",
+        "lecturer": "Макух О.Є., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/9209743557?pwd=UkV2dWdwbWpBTVk0bWlYaWVQS1FQUT09%20%20Meeting%20ID:%20920%20974%203557%20Passcode:%20%20%20%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C915084",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

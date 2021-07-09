@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Фізичні основи магнітоелектроніки",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/meetingOptions?language=uk-ua&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&organizerId=c20d881d-50a3-4c58-b359-f6eef7b7d78f&threadId=19_6ab759f0d7104c66959bb922f468701a@thread.tacv2&messageId=1613506058014&correlationId=webclient:86eddeec-ac3b-4189-a37a-63f633f56d54",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізичні основи магнітоелектроніки",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions?language=uk-ua&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&organizerId=c20d881d-50a3-4c58-b359-f6eef7b7d78f&threadId=19_6ab759f0d7104c66959bb922f468701a@thread.tacv2&messageId=1613506198973&correlationId=webclient:642658cd-db77-49cd-92df-14c9c7f86d62",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

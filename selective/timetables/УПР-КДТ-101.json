@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Курильців Р.М., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Курильців Р.М., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

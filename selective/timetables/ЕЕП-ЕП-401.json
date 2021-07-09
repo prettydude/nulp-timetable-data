@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки та охорони",
+        "lecturer": "Барило Г.І., ",
+        "location": " Практична",
+        "url": "",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки та охорони",
+        "lecturer": "Барило Г.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a2d8f2ae6032c409fb6218d1069446fc3%40thread.tacv2/conversations?groupId=f2702722-657e-47ac-a982-074439d86939&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

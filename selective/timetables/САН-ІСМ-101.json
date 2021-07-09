@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Стратегічний аналіз",
+        "lecturer": "Цмоць О.І., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Стратегічний аналіз",
+        "lecturer": "Цмоць О.І., ",
+        "location": " Лабораторна",
+        "url": "https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Стратегічний аналіз",
+        "lecturer": "Цмоць О.І., ",
+        "location": ", Лабораторна",
+        "url": "https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

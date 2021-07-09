@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "Жежуха В.Й., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a0ac873bfc08844149bc1890bb4e654f4%40thread.tacv2/conversations?groupId=3442da0a-e5c6-4e92-80b3-1b093271e0b0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "Дорош О.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3ac94a0b2666784f65a14248d4deef7b85%40thread.tacv2/conversations?groupId=289691ad-e316-4001-b573-c527487c460d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Мартинюк В.П., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/ccn-oxii-ivw",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Дума О.І., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/96356534947?pwd=QS95QnIxU0VLRGpLQTl4WS81eFRyUT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

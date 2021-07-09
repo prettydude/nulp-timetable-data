@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технологія підготовки питної води",
+        "lecturer": "Попович О.Р., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a879a3e35e1614afb997c2f91378aecc2%40thread.tacv2/1613058821286?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технологія підготовки питної води",
+        "lecturer": "Петрушка К.І., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/98433677972?pwd=d20vc0FSSExoM2JaKzZSdE9EN04wZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

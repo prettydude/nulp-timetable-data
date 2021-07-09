@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Менеджмент і маркетинг ЗМІ",
+        "lecturer": "Мудра І.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a8916eea2c2ca46c2bf6810a15bc6b819%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=95f94e3b-481f-45e0-bd01-fb6342a40a7c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент і маркетинг ЗМІ",
+        "lecturer": "Мудра І.М., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a8916eea2c2ca46c2bf6810a15bc6b819%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=95f94e3b-481f-45e0-bd01-fb6342a40a7c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

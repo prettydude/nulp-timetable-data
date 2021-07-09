@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "Гаврильченко О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a0eb4287a42204c4c96570d2bc76cc683%40thread.tacv2/conversations?groupId=a9ac9f6b-83c9-494a-bde8-3c59807affe3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "Гаврильченко О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a0eb4287a42204c4c96570d2bc76cc683%40thread.tacv2/conversations?groupId=a9ac9f6b-83c9-494a-bde8-3c59807affe3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

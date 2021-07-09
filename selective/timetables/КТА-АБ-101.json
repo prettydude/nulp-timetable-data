@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Комп`ютерні технології в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/91581433561?pwd=bE52VVpMZnpSekZLeklaM2FCUFlndz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/99477788570?pwd=TkQ5OVVRWmpMLzVTRHhGb0VqcHFvUT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

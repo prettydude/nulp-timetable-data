@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Іноземна мова",
+        "lecturer": "Закаулова Ю.В., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/73885505568?pwd=RmV4VnByaE5kNmRqTDAzdnJZOEEvQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    }
+]

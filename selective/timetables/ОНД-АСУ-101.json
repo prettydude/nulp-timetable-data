@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Цмоць І.Г., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Цмоць І.Г., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

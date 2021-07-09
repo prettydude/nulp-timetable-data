@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "Малець М.Р., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/78695212186?pwd=L2FVazJ0eTJSc2pUNE45ZG9TbW5Sdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "Хомишин І.Ю., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/82195691809?pwd=UkFQNHlvQU9DRGttcGQ0Y1NSblh0Zz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

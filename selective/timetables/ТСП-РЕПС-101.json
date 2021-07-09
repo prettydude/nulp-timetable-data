@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Телевізійні системи та пристрої відображення інформації",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/mnd-kkwi-zuo",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Телевізійні системи та пристрої відображення інформації",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/uvc-agsw-xau",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Телевізійні системи та пристрої відображення інформації",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/dyy-cgir-xwo",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

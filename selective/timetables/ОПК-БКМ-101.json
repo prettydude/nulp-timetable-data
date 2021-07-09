@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Основи проектування та конструювання інженерної та аварійно-рятувальної техніки",
+        "lecturer": "Гаврилко О.А., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/3438964457?pwd=TzNJWHV2MHNVZ3psOGtOQnlLNVZnQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи проектування та конструювання інженерної та аварійно-рятувальної техніки",
+        "lecturer": "Гаврилко О.А., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/3438964457?pwd=TzNJWHV2MHNVZ3psOGtOQnlLNVZnQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

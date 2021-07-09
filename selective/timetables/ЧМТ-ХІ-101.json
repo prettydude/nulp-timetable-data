@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Чисельне моделювання теплообмінних процесів",
+        "lecturer": "Гаврилів Р.І., ",
+        "location": " Лекція",
+        "url": "https://join.skype.com/p9az9R3Ud7aT",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Чисельне моделювання теплообмінних процесів",
+        "lecturer": "Костів І.С., ",
+        "location": " Лабораторна",
+        "url": "https://join.skype.com/p9az9R3Ud7aT",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

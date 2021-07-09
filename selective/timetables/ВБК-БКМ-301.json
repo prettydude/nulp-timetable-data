@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Вогнезахист будівельних конструкцій",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/5424495718",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Вогнезахист будівельних конструкцій",
+        "lecturer": "Данкевич І.П., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/97461136332?pwd=eGN5Ylp2V3FNNGRnb244eGdwakc2dz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

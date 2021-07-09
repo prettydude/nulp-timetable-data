@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Булатов О.М., Людовик Т.В., 21кор.вул.Самчука11",
+        "location": " Практична",
+        "url": "",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "Олешко О.П., Топилко С.І., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3aa2f16f32b3264b548a0d046637eeebe7%40thread.tacv2/conversations?groupId=f6150544-cc84-41e3-a4a0-f7a0bad370b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    }
+]

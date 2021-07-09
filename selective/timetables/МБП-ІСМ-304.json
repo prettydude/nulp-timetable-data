@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Моделювання бізнес-процесів",
+        "lecturer": "Тріщ Г.М., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/85291988140?pwd=S0lEWDBVMU5SK1ZIUGhPUVVwUlNUZz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Моделювання бізнес-процесів",
+        "lecturer": "Рибчак З.Л., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Моделювання бізнес-процесів",
+        "lecturer": "Рибчак З.Л., ",
+        "location": ", Лабораторна",
+        "url": "https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

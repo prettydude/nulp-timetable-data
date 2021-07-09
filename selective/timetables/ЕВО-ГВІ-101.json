@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Експлуатація водогосподарських об`єктів",
+        "lecturer": "Бенько З.П., ",
+        "location": " Лекція",
+        "url": "",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація водогосподарських об`єктів",
+        "lecturer": "Бенько З.П., ",
+        "location": " Лабораторна",
+        "url": "",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

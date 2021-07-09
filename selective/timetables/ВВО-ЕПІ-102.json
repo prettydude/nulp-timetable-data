@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "Войцеховська В.В., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/94564926720?pwd=dldMUkpmcFdXNk52SmFnS1AwakpXUT09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "Войцеховська В.В., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/94564797849?pwd=RExPS0pHLzBRbmw0TjM0TmFtVjRmQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

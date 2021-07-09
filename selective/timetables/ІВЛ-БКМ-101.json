@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Атаманюк М.В., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/96364814086?pwd=bkZsV0I0ZGVpVlJBSjRlYTczdEZXZz09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Атаманюк М.В., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/96364814086?pwd=bkZsV0I0ZGVpVlJBSjRlYTczdEZXZz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

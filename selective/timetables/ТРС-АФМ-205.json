@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Іванкова Н.О., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTFkMzM0NWEtZjI2Yy00NDQ2LTgwZTUtMThhM2IwOWVhMTdl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dfa1ce05-3f3f-43d7-a149-d3f9bd1b9b63%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Химич О.В., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/4929862551?pwd=VTRCYnlvMk5SUC9QZUJ3d252azhtZz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Адміністративно-правове регулювання інноваційної діяльності",
+        "lecturer": "Перун Т.С., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/8494891597?pwd=ejlrT0FMWHB6eTNZRGlYcW1IdXI5Zz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Адміністративно-правове регулювання інноваційної діяльності",
+        "lecturer": "Перун Т.С., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/79080798699?pwd=T0k5UDBoLzY3eCt0Yk9wdEFmRjh0UT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Адміністративно-правове регулювання інноваційної діяльності",
+        "lecturer": "Перун Т.С., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/8494891597?pwd=ejlrT0FMWHB6eTNZRGlYcW1IdXI5Zz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

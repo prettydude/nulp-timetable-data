@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології когнітивно-поведінкової психотерапії",
+        "lecturer": "Марциняк-Дорош О.М., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3ab5993e82e8ed465291dfbe877ae31cde%40thread.tacv2/conversations?groupId=4da67f14-6074-43ca-813b-b6a258925337&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Технології когнітивно-поведінкової психотерапії",
+        "lecturer": "Марциняк-Дорош О.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3ab5993e82e8ed465291dfbe877ae31cde%40thread.tacv2/conversations?groupId=4da67f14-6074-43ca-813b-b6a258925337&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    }
+]

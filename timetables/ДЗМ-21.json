@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "Лінда С.М., Черкес Б.С., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3afdcb1f116a014a80b75735b804bd1845%40thread.tacv2/conversations?groupId=21f3058b-1689-42fa-a703-955f4fc048f5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

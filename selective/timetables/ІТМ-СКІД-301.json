@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "ІТ-менеджмент",
+        "lecturer": "Кравець Р.Б., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/message/19:e87cd4404a6d44ecb35e4280584297ad@thread.tacv2/1613221691652?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=aa1f8f50-db45-4e69-bdb8-7412b8342f07&parentMessageId=1613221691652&teamName=%D0%94%D0%9A-3x&channelName=%D0%86%D0%A2-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82&createdTime=1613221691652",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "ІТ-менеджмент",
+        "lecturer": "Вовк Н.С., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/message/19:e87cd4404a6d44ecb35e4280584297ad@thread.tacv2/1614171557973?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=aa1f8f50-db45-4e69-bdb8-7412b8342f07&parentMessageId=1614171557973&teamName=%D0%94%D0%9A-3x&channelName=%D0%86%D0%A2-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82&createdTime=1614171557973",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "ІТ-менеджмент",
+        "lecturer": "Вовк Н.С., ",
+        "location": ", Лабораторна",
+        "url": "https://teams.microsoft.com/l/message/19:e87cd4404a6d44ecb35e4280584297ad@thread.tacv2/1614172098419?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=aa1f8f50-db45-4e69-bdb8-7412b8342f07&parentMessageId=1614172098419&teamName=%D0%94%D0%9A-3x&channelName=%D0%86%D0%A2-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82&createdTime=1614172098419",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

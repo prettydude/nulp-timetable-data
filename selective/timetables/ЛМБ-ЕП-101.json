@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Практична",
+        "url": "",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лекція",
+        "url": "",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

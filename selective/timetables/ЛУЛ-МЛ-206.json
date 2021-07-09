@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Чорнописька Н.В., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/89730711344?pwd=dVBjZlVrenhFelV1NEFNUjdBNm5TQT09%20%20Meeting%20ID:%20897%203071%201344%20Passcode:%207i5Ctz",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Гайванович Н.В., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/83430041451?pwd=Q1Vzb1NEd0Jjb1h0Y3pyWUtkWnJTUT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20834%203004%201451%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20LUL-ML-206",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

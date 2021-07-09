@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Забезпечення якості енергоносіїв",
+        "lecturer": "Прохоренко С.В., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/jfd-tajb-qor",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Забезпечення якості енергоносіїв",
+        "lecturer": "Прохоренко С.В., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/dcr-mwpo-frc",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Забезпечення якості енергоносіїв",
+        "lecturer": "Гамула П.Р., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3ac63a1b23ae2b474db20bb4ded1989025%40thread.tacv2/conversations?groupId=49605a78-bf6f-456f-b097-b3e8149b5980&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

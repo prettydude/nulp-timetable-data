@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Шищак О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=e08e4f18-090f-48b6-9a4b-74d537bc2598&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_dd1fcf9b023c4c9a96cb19ff58f6c2dd@thread.tacv2&messageId=1613050345853&language=uk-UA",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Шищак О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=e08e4f18-090f-48b6-9a4b-74d537bc2598&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_dd1fcf9b023c4c9a96cb19ff58f6c2dd@thread.tacv2&messageId=1613050830727&language=uk-UA",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

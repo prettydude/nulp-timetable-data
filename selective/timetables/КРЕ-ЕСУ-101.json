@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Керування режимами електропостачальних систем",
+        "lecturer": "Лисяк В.Г., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/channel/19%3acee1ac189f6e491da6b3a3e47316e191%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%25B0%25D0%25BD%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520%25D0%25B7%25D0%25B3%25D1%2596%25D0%25B4%25D0%25BD%25D0%25BE%2520%25D1%2580%25D0%25BE%25D0%25B7%25D0%25BA%25D0%25BB%25D0%25B0%25D0%25B4%25D1%2583?groupId=01cb285e-6b43-491d-9185-e73b627a3325&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Керування режимами електропостачальних систем",
+        "lecturer": "Лисяк В.Г., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3acee1ac189f6e491da6b3a3e47316e191%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%25B0%25D0%25BD%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520%25D0%25B7%25D0%25B3%25D1%2596%25D0%25B4%25D0%25BD%25D0%25BE%2520%25D1%2580%25D0%25BE%25D0%25B7%25D0%25BA%25D0%25BB%25D0%25B0%25D0%25B4%25D1%2583?groupId=01cb285e-6b43-491d-9185-e73b627a3325&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

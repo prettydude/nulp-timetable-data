@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Менеджмент персоналу торговельного підприємства",
+        "lecturer": "Ягольник С.Г., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/8850778896?pwd=R2ZyODJQd01NU2ZDQWtxeVl2clYwUT09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент персоналу торговельного підприємства",
+        "lecturer": "Ягольник С.Г., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/8850778896?pwd=R2ZyODJQd01NU2ZDQWtxeVl2clYwUT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

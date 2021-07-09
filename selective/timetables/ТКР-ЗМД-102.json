@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Транснаціональні корпорації",
+        "lecturer": "Моторнюк У.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a66c03e6bddcf451db4dcaf883a92f2bb%40thread.tacv2/conversations?groupId=815335ee-0e2e-4e4f-ae89-4e389636bf73&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Транснаціональні корпорації",
+        "lecturer": "Моторнюк У.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a862acf56ad3b46a3b199be665823424d%40thread.tacv2/conversations?groupId=8d1dfef6-da8e-4e9e-a723-f76eac5ce797&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

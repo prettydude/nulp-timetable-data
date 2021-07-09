@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Дослідження і проектування інтерфейсів користувача",
+        "lecturer": "Костик А.Т., ",
+        "location": " Лабораторна",
+        "url": "https://us02web.zoom.us/j/81908853847?pwd=Y0hyTzFJWlRvWmhhY0RtT1RUSDdYZz09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування інтерфейсів користувача",
+        "lecturer": "Костик А.Т., ",
+        "location": ", Лабораторна",
+        "url": "https://us02web.zoom.us/j/83997156145?pwd=Z1RPb3B5ZXN1b3cwSGlycGlLTWhuQT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування інтерфейсів користувача",
+        "lecturer": "Березко Л.О., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/uba-ebsn-kwe",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

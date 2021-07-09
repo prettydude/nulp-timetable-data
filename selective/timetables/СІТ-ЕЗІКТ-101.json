@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Супутникові інфокомунікаційні технології",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/92189029851?pwd=TGtnbVdCTXdhNU8rSzJiY3ovdTJhdz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Супутникові інфокомунікаційні технології",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/92189029851?pwd=TGtnbVdCTXdhNU8rSzJiY3ovdTJhdz09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

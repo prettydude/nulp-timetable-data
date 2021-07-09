@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Основи теорії міжнародних відносин",
+        "lecturer": "Дорош Л.О., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/96142012575?pwd=WUE1eGZGTmVyRVJFSWk1dk83ZE90Zz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Основи теорії міжнародних відносин",
+        "lecturer": "Завада Я.І., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/81290385003?pwd=QVZRZUp6c0YyV2g3QnVIcnZCRkhTZz09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Марковець О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/message/19:cde08621dd0b47c7bbe359b60e5f124b@thread.tacv2/1613237432331?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=ad6427eb-6392-4d46-9dff-939610e6f7a7&parentMessageId=1613237432331&teamName=%D0%86%D0%A2%D0%9E%D0%91%20%D0%BE%D1%81%D1%96%D0%BD%D1%8C%202020&channelName=%D0%91%D0%86-41%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-401&createdTime=1613237432331",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Марковець О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/message/19:cde08621dd0b47c7bbe359b60e5f124b@thread.tacv2/1613237509383?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=ad6427eb-6392-4d46-9dff-939610e6f7a7&parentMessageId=1613237509383&teamName=%D0%86%D0%A2%D0%9E%D0%91%20%D0%BE%D1%81%D1%96%D0%BD%D1%8C%202020&channelName=%D0%91%D0%86-41%2C%20%D0%86%D0%A2%D0%9E-%D0%A1%D0%9A%D0%86%D0%94-401&createdTime=1613237509383",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

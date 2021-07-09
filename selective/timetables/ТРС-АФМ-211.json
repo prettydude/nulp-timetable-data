@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Дума О.І., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/97428804738?pwd=OU9EazYwUzdmdjFyeUozVTl1cTlGdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Другов О.О., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/79894777639?pwd=akZvKy9qUGJBMEpFaWsvU0pPRGR3Zz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

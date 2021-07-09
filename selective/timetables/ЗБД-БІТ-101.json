@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Нємкова О.А., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/82553431959?pwd=UzArZ3pZdlJ2dHdKMGpPdDhVVzM3UT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Нємкова О.А., ",
+        "location": " Лабораторна",
+        "url": "https://us02web.zoom.us/j/89289122467?pwd=NFQwQVQxYUlidTY2a0NMOE1TWW93UT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Нємкова О.А., ",
+        "location": ", Лабораторна",
+        "url": "https://us02web.zoom.us/j/89289122467?pwd=NFQwQVQxYUlidTY2a0NMOE1TWW93UT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

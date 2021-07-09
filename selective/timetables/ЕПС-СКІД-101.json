@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Марковець О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/message/19:e67cd6f2e92d426dad82afcc5d0dda28@thread.tacv2/1613232862623?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=cf8ad371-f2b3-4ae2-9b75-740b6cfebc3c&parentMessageId=1613232862623&teamName=%D0%94%D0%9A%D0%86%D0%91-11&channelName=%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%96%20%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B8&createdTime=1613232862623",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Марковець О.В., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/message/19:e67cd6f2e92d426dad82afcc5d0dda28@thread.tacv2/1613232946908?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=cf8ad371-f2b3-4ae2-9b75-740b6cfebc3c&parentMessageId=1613232946908&teamName=%D0%94%D0%9A%D0%86%D0%91-11&channelName=%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%96%20%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B8&createdTime=1613232946908",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

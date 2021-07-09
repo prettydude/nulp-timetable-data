@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Актуальні проблеми історії науки і техніки",
+        "lecturer": "Стасюк І.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/3449405168",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Актуальні проблеми історії науки і техніки",
+        "lecturer": "Стасюк І.М., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/3449405168",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

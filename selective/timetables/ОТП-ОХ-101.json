@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Основи товарознавства продовольчих товарів  та косметичних засобів",
+        "lecturer": "Дончак В.А., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=fa2addbc-b1aa-4e34-91f8-385133317946&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_YWY3NzNhZDMtZjgzNC00M2YxLTgxY2UtNTdkOTg5YThlZDMw@thread.v2&messageId=0&language=ru-RU",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи товарознавства продовольчих товарів  та косметичних засобів",
+        "lecturer": "Дончак В.А., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=fa2addbc-b1aa-4e34-91f8-385133317946&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_MzMzMzZiNDYtNzhlZS00MjM0LTg1ODQtMDNjM2Q0NzA1OWIy@thread.v2&messageId=0&language=ru-RU",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи товарознавства продовольчих товарів  та косметичних засобів",
+        "lecturer": "Дончак В.А., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=fa2addbc-b1aa-4e34-91f8-385133317946&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_MzMzMzZiNDYtNzhlZS00MjM0LTg1ODQtMDNjM2Q0NzA1OWIy@thread.v2&messageId=0&language=ru-RU",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

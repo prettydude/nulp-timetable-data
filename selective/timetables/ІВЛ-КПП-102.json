@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Сорока С.О., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/86261792399?pwd=MUVMSUJ6bytjY1BNeHNSM3BiRGg0dz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Сорока С.О., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/84136931014?pwd=MWRnTlVhZ3RmeDN0TGpVRVExbnNIdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

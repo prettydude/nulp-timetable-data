@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Системи екоменеджменту та екоконцепція сталого розвитку",
+        "lecturer": "Захарко Я.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTQ0ZjE3ZWEtMTMyNS00MDQ2LWJjOTctMmIyYmFmZTIxMDkw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Системи екоменеджменту та екоконцепція сталого розвитку",
+        "lecturer": "Попович О.Р., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a44f9e6e0f17643c7842d5dbf853ea591%40thread.tacv2/1612987311280?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

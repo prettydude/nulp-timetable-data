@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Методи і засоби захисту рухомих об`єктів",
+        "lecturer": "Ракобовчук Л.М., ",
+        "location": " Лекція",
+        "url": "https://join.skype.com/ewhNjXplEMnz",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Методи і засоби захисту рухомих об`єктів",
+        "lecturer": "Ракобовчук Л.М., ",
+        "location": " Практична",
+        "url": "https://join.skype.com/ewhNjXplEMnz",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

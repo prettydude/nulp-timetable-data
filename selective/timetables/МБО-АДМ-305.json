@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Моделювання будівельних об’єктів і процесів",
+        "lecturer": "Мурин А.Я., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmUxNjQ5OWQtNGIxZS00YTBjLWJlMDEtMGRhOThjZTY4ODg3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c996cc70-ca62-409d-9dcb-48cfe7fd8b8a%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання будівельних об’єктів і процесів",
+        "lecturer": "Бліхарський Я.З., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OTY5NGY1NGItM2ZkOS00ODhjLWE3NGItMDQ2ZjIyMjhkZGYx%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252c%2522Oid%2522%253a%25225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=bea7daad-314e-4ef6-a325-b79c5b86d5de&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

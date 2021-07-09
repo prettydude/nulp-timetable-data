@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Технології машинного навчання",
+        "lecturer": "Щербак С.С., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/qed-kghw-xwe",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології машинного навчання",
+        "lecturer": "Щербак С.С., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/wrq-pjws-ymv",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технології машинного навчання",
+        "lecturer": "Щербак С.С., ",
+        "location": ", Лабораторна",
+        "url": "https://meet.google.com/xrv-ison-wvw",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

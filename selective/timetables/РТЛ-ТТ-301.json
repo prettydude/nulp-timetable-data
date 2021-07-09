@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Жук М.М., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a0f7191db1f2540a9bc205a3331f51e98%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a717cbc4-0648-4bdf-8e0c-9142c2fbfbba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Ковалишин В.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a0f7191db1f2540a9bc205a3331f51e98%40thread.tacv2/conversations?groupId=a717cbc4-0648-4bdf-8e0c-9142c2fbfbba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

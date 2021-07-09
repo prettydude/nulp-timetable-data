@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Геоінформаційні системи в моніторингових та управлінських задачах",
+        "lecturer": "Бабушка А.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a11e1cfd24acc4f54bcfe9a7c9832ad89%40thread.tacv2/conversations?groupId=4ea89394-b3a9-437d-b735-1c79095b7785&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Геоінформаційні системи в моніторингових та управлінських задачах",
+        "lecturer": "Бабушка А.В., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3a11e1cfd24acc4f54bcfe9a7c9832ad89%40thread.tacv2/conversations?groupId=4ea89394-b3a9-437d-b735-1c79095b7785&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

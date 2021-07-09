@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Булатов О.М., Людовик Т.В., 21кор.вул.Самчука11",
+        "location": " Практична",
+        "url": "",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Волошин М.М., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/71809368813?pwd=dnYxRktUdG9McllycWJFL21QcDJZZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Морська Н.О., ",
+        "location": ", Практична",
+        "url": "https://join.skype.com/nk2GKVjdtdqc",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "Олешко О.П., Топилко С.І., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3a7625f2ce729e481e90eef4db438b3cdd%40thread.tacv2/conversations?groupId=e32c390d-a1e6-4c9e-bac6-441eb81f60ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Архівознавство",
+        "lecturer": "Шеломенцев-Терський С.В., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/9641848736?pwd=S3N6NDRVbVpoNU92Y0ZCNnEwQUQ5Zz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Архівознавство",
+        "lecturer": "Шеломенцев-Терський С.В., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/9641848736?pwd=S3N6NDRVbVpoNU92Y0ZCNnEwQUQ5Zz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

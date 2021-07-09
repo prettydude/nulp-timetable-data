@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Ділова англійська мова",
+        "lecturer": "Шайнер Г.І., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/81169306250?pwd=NjYrT3RSdmN1SXphQWVSclB6c2ZCQT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

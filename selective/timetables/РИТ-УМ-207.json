@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "Микитюк О.Р., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/86495596199?pwd=L2xJckdoYnJuNlpQU2lkRWt3bWRqZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

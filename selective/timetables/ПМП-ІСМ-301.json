@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Програмування мобільних пристроїв",
+        "lecturer": "Досин Д.Г., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/mfi-zwpy-wih?hs=122&authuser=1",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Програмування мобільних пристроїв",
+        "lecturer": "Досин Д.Г., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/kgy-winh-duy?hs=122&authuser=1",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Програмування мобільних пристроїв",
+        "lecturer": "Досин Д.Г., ",
+        "location": ", Лабораторна",
+        "url": "https://meet.google.com/kgy-winh-duy?hs=122&authuser=1",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

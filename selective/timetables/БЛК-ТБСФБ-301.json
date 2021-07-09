@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Біотехнологія лікувально-косметичних засобів",
+        "lecturer": "Федорова О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=43d5aba3-6205-479b-943d-22ac06a85aa2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_NGM4NTk1YjEtNDk3Yi00ZDU3LWI2ZmItNTgyMjIzYjZjMzgy@thread.v2&messageId=0&language=ru-RU",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Біотехнологія лікувально-косметичних засобів",
+        "lecturer": "Федорова О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=43d5aba3-6205-479b-943d-22ac06a85aa2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_NmMwZThlYTUtNjBlMi00NjYwLTg3MzUtNjI1MGI1NzE0OTc0@thread.v2&messageId=0&language=ru-RU",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

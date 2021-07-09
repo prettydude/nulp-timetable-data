@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "Фучила О.М., АВАУ -12",
+        "location": ", Практична",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_25e3661101134bc082a1aa370891cda3@thread.tacv2&messageId=1615669097819&language=ru-RU",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "Фучила О.М., АВАУ -12",
+        "location": ", Практична",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_25e3661101134bc082a1aa370891cda3@thread.tacv2&messageId=1613157463550&language=ru-RU",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "Олексів Г.Д., СОВД +АВАУ-11",
+        "location": " Практична",
+        "url": "https://meet.google.com/qya-ttas-iqp",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Європейська валютна система",
+        "lecturer": "Гончар М.Ф., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a1f52f160e34e43f79b492ea7e93bf97b%40thread.tacv2/conversations?groupId=b80d8ccc-747c-483e-b64e-65f06f3606e6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Європейська валютна система",
+        "lecturer": "Дрималовська Х.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a2a10e68f7cad4c0aafa9aa85036b49ac%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=eca5769a-5df7-4729-9b84-c6abd49c975f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Європейська валютна система",
+        "lecturer": "Дрималовська Х.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a2a10e68f7cad4c0aafa9aa85036b49ac%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=eca5769a-5df7-4729-9b84-c6abd49c975f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

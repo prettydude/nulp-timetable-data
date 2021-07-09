@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології рециклінгу комунальних відходів",
+        "lecturer": "Погребенник В.Д., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/81030963338?pwd=T2lJVmV4VWlVRWxybmJwTTVpWmZjdz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології рециклінгу комунальних відходів",
+        "lecturer": "Руда М.В., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/82481417123?pwd=UlRiMUMvM2RRT1ZtQ0pDTEdNOVcyZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

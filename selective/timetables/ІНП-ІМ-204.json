@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Олексів Г.Д., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/qya-ttas-iqp",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

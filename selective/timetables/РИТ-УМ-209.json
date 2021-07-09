@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "Шмілик І.Д., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/4460491153",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

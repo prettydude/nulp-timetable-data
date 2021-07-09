@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Екологічний маркетинг",
+        "lecturer": "Кузяк В.В., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/88941095679?pwd=T3hzQmFhZytxS0tibGJFR2tuT3Fudz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Екологічний маркетинг",
+        "lecturer": "Мащак Н.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3ac27b913522d94a89848fcbbbe78a4437%40thread.tacv2/conversations?groupId=1a6abff0-7e38-4919-a920-876aa9b6ee6d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Екологічний маркетинг",
+        "lecturer": "Мащак Н.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3ac27b913522d94a89848fcbbbe78a4437%40thread.tacv2/conversations?groupId=1a6abff0-7e38-4919-a920-876aa9b6ee6d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

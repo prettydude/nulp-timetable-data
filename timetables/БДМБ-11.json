@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Ілів В.В., Кропивницька Т.П., Сидор Н.І., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    }
+]

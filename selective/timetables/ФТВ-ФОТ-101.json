@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Фотовольтаїка",
+        "lecturer": "Булавінець Т.О., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3ab52298e13896423ca47d242f09236212%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a0c88e30-d2b0-49c4-a893-ca3fbd6e27f5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Фотовольтаїка",
+        "lecturer": "Булавінець Т.О., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3ab52298e13896423ca47d242f09236212%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a0c88e30-d2b0-49c4-a893-ca3fbd6e27f5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фотовольтаїка",
+        "lecturer": "Булавінець Т.О., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3ab52298e13896423ca47d242f09236212%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a0c88e30-d2b0-49c4-a893-ca3fbd6e27f5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Фотовольтаїка",
+        "lecturer": "Булавінець Т.О., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3ab52298e13896423ca47d242f09236212%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a0c88e30-d2b0-49c4-a893-ca3fbd6e27f5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

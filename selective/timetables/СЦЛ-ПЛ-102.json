@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Соціолінгвістика",
+        "lecturer": "Левченко О.П., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/sqd-ijkc-ozh",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    }
+]

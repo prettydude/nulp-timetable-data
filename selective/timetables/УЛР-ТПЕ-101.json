@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Управління людськими ресурсами",
+        "lecturer": "Садова У.Я., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=277dcf8b-67d2-47de-a3cc-e747de964435&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_5488e309b3d5421ba1574598edaa7c3f@thread.tacv2&messageId=1612956072873&language=uk-UA",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління людськими ресурсами",
+        "lecturer": "Садова У.Я., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=277dcf8b-67d2-47de-a3cc-e747de964435&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_5488e309b3d5421ba1574598edaa7c3f@thread.tacv2&messageId=1612956072873&language=uk-UA",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

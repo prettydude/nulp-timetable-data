@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Соціально-економічна політика ресурсозбереження",
+        "lecturer": "Музиченко-Козловська О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a641b4ef210d843c3be06549662a07808%40thread.tacv2/conversations?groupId=225a6e5e-c1ab-42f9-8252-80a0fd6dde51&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Соціально-економічна політика ресурсозбереження",
+        "lecturer": "Музиченко-Козловська О.В., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a641b4ef210d843c3be06549662a07808%40thread.tacv2/conversations?groupId=225a6e5e-c1ab-42f9-8252-80a0fd6dde51&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Соціально-економічна політика ресурсозбереження",
+        "lecturer": "Музиченко-Козловська О.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a74e570a4bb594428be4a4f6c649887d2%40thread.tacv2/conversations?groupId=df0eb413-d678-4fdd-9353-aac57ab362ce&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

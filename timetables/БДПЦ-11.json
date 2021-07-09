@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Проектування в сейсмічних районах",
+        "lecturer": "Пелех А.Б., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/2412820816?pwd=MVlCWFlYcWhNdlBEM3piS1lIMzQwUT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "Пелешко І.Д., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/77538038911?pwd=UEdxNUJTZFJJU0szcmM4RVhaNk56QT09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Атаманюк М.В., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/96364814086?pwd=bkZsV0I0ZGVpVlJBSjRlYTczdEZXZz09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Гримак О.Я., Гуняк О.М., Мурин А.Я., Турба Ю.В., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTljZWIwNzQtNTY4NS00ZDlhLWE1ZWUtN2E0YmQ2NTI5Y2Jk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c996cc70-ca62-409d-9dcb-48cfe7fd8b8a%22%7d",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    }
+]

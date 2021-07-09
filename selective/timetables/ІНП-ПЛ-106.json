@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Дяк Т.П., ",
+        "location": ", Практична",
+        "url": "https://meet.google.com/som-pstf-bkc?authuser=3",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Голтвян В.І., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/qau-otuf-tii?authuser=0",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    }
+]

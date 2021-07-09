@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "Гринів Т.Т., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a628de09c03554d138afdb052b8fb593e%40thread.tacv2/conversations?groupId=639c30d9-4683-4eca-8787-91c66a4f9ab8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "Гринів Т.Т., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a628de09c03554d138afdb052b8fb593e%40thread.tacv2/conversations?groupId=639c30d9-4683-4eca-8787-91c66a4f9ab8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

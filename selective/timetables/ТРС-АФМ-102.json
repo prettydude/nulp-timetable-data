@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Химич О.В., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/4929862551?pwd=VTRCYnlvMk5SUC9QZUJ3d252azhtZz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Дума О.І., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/99866151586?pwd=b0lORFBWejd0RldQSVFLUm5vaW80Zz09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

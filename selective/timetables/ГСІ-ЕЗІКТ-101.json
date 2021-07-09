@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Глобальні системи інфокомунікацій",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/99830134867?pwd=Y25TRXF2Qkp4dExBT21ielZTaVh2QT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Глобальні системи інфокомунікацій",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/99830134867?pwd=Y25TRXF2Qkp4dExBT21ielZTaVh2QT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

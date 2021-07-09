@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Мультимедійні системи",
+        "lecturer": "Міюшкович Ю.Г., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/xdn-urob-phv",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Мультимедійні системи",
+        "lecturer": "Марцишин Р.С., ",
+        "location": ", Лабораторна",
+        "url": "https://meet.google.com/dcn-oahs-zne",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Мультимедійні системи",
+        "lecturer": "Міюшкович Ю.Г., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/xdn-urob-phv",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

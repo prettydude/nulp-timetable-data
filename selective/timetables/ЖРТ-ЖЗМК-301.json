@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Журналістське розслідування на телебаченні",
+        "lecturer": "Струк Н.А., ",
+        "location": " Лекція",
+        "url": "",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Журналістське розслідування на телебаченні",
+        "lecturer": "Струк Н.А., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/8902984849?pwd=alc3WVJieEFQWGkvdzAxVkwvSitjQT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

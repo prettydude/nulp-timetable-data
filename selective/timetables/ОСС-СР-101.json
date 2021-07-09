@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Організація соціологічної служби",
+        "lecturer": "Піча В.М., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3aec887ebe2278497ab6e958fa08590c3b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3b2a0e80-809f-4d06-a1b4-9767e0e73043&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Організація соціологічної служби",
+        "lecturer": "Піча В.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3aec887ebe2278497ab6e958fa08590c3b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3b2a0e80-809f-4d06-a1b4-9767e0e73043&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

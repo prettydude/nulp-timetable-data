@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., ",
+        "location": " Лабораторна",
+        "url": "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Міжнародна соціальна робота",
+        "lecturer": "Ставкова С.Г., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a4c8d938ba5324c5ebdf2e4a2df91c056%40thread.tacv2/conversations?groupId=1ea34e71-d10b-4161-8173-2cf61fc6268d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародна соціальна робота",
+        "lecturer": "Ставкова С.Г., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a4c8d938ba5324c5ebdf2e4a2df91c056%40thread.tacv2/conversations?groupId=1ea34e71-d10b-4161-8173-2cf61fc6268d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

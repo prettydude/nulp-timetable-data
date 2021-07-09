@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Дипломатичний практикум",
+        "lecturer": "Волинець О.О., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/91828508128?pwd=M1VHSWxrM2RMTHdpd0p6NjZBUm55QT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дипломатичний практикум",
+        "lecturer": "Волинець О.О., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/91828508128?pwd=M1VHSWxrM2RMTHdpd0p6NjZBUm55QT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

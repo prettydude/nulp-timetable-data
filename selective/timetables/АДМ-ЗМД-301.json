@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Адміністративний менеджмент ",
+        "lecturer": "Подра О.П., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a7dda0f30367c40f3a4127322d2d36ac0%40thread.tacv2/conversations?groupId=5ed912da-816e-40af-bcc2-9250b1b60712&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Адміністративний менеджмент ",
+        "lecturer": "Подра О.П., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a7dda0f30367c40f3a4127322d2d36ac0%40thread.tacv2/conversations?groupId=5ed912da-816e-40af-bcc2-9250b1b60712&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Адміністративний менеджмент ",
+        "lecturer": "Петришин Н.Я., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3ab464e6496ff64b69911eed6f6a24d143%40thread.tacv2/conversations?groupId=6722244f-fffb-401f-92e7-33737d5c5869&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

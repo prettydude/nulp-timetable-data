@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Міжнародний страховий ринок",
+        "lecturer": "Лащик І.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a9c603c0842dc49d3af5c9fc613c772d0%40thread.tacv2/1615665282655?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220371a599-a363-46ff-b30e-b88587d8c67d%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний страховий ринок",
+        "lecturer": "Лащик І.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a9c603c0842dc49d3af5c9fc613c772d0%40thread.tacv2/1615665282655?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220371a599-a363-46ff-b30e-b88587d8c67d%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний страховий ринок",
+        "lecturer": "Лащик І.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3a9c603c0842dc49d3af5c9fc613c772d0%40thread.tacv2/1615665758533?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220371a599-a363-46ff-b30e-b88587d8c67d%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Корендій В.М., ",
+        "location": " Лекція",
+        "url": "",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

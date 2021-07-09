@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Мрак В.Б., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/lookup/bowf5tnr6g",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/tbi-ayxh-cgm",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

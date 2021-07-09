@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Кондиціювання стічних вод",
+        "lecturer": "Гелеш А.Б., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/72537405307?pwd=SjV2ZDlaaEhHRTVudUZoVUxsUHFxUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Кондиціювання стічних вод",
+        "lecturer": "Гелеш А.Б., ",
+        "location": " Лабораторна",
+        "url": "https://us04web.zoom.us/j/74280556256?pwd=dlB1TElPclNiT0VSWVNiU08rRmRudz09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Кондиціювання стічних вод",
+        "lecturer": "Гелеш А.Б., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/72537405307?pwd=SjV2ZDlaaEhHRTVudUZoVUxsUHFxUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Кондиціювання стічних вод",
+        "lecturer": "Гелеш А.Б., ",
+        "location": " Лабораторна",
+        "url": "https://us04web.zoom.us/j/74280556256?pwd=dlB1TElPclNiT0VSWVNiU08rRmRudz09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

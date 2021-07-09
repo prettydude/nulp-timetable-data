@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Міжнародні фінансові організації",
+        "lecturer": "Кондрат І.Ю., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3aa2403e53ca944206a1541206e232882b%40thread.tacv2/1615707872593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a997c256-ed0b-49df-9c78-670812388e8b%22%7d",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні фінансові організації",
+        "lecturer": "Кондрат І.Ю., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3aa2403e53ca944206a1541206e232882b%40thread.tacv2/1615707872593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a997c256-ed0b-49df-9c78-670812388e8b%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні фінансові організації",
+        "lecturer": "Кондрат І.Ю., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/meetup-join/19%3aa2403e53ca944206a1541206e232882b%40thread.tacv2/1615707872593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a997c256-ed0b-49df-9c78-670812388e8b%22%7d",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

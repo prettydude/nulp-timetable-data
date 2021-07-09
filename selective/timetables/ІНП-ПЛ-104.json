@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Бондарчук Н.І., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/99374885376?pwd=RkZQY01wWG0wdlRrcXRDb3VjWm1KQT09%20%20Meeting%20ID:%20993%207488%205376%20Passcode:%20y7TX3G",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Бондарчук Н.І., ",
+        "location": ", Практична",
+        "url": "https://zoom.us/j/99374885376?pwd=RkZQY01wWG0wdlRrcXRDb3VjWm1KQT09%20%20Meeting%20ID:%20993%207488%205376%20Passcode:%20y7TX3G",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

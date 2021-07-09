@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Медична біотехнологія",
+        "lecturer": "Губрій З.В., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/_#/pre-join-calling/19:b2eb71b5f1954390a2f3fb87148bf036@thread.tacv2",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Медична біотехнологія",
+        "lecturer": "Губрій З.В., Хом'як С.В., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/_#/pre-join-calling/19:b2eb71b5f1954390a2f3fb87148bf036@thread.tacv2,,%20https://teams.microsoft.com/_#/pre-join-calling/19:b2eb71b5f1954390a2f3fb87148bf036@thread.tacv2",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Медична біотехнологія",
+        "lecturer": "Губрій З.В., Хом'як С.В., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/_#/pre-join-calling/19:b2eb71b5f1954390a2f3fb87148bf036@thread.tacv2,,%20https://teams.microsoft.com/_#/pre-join-calling/19:b2eb71b5f1954390a2f3fb87148bf036@thread.tacv2",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

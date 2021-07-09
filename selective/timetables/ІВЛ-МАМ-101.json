@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гурський В.М., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3ac13db54645494c3d9c0365e41e446750%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=07150d44-da32-498c-b3bd-06a8a0cd06c6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гурський В.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3ac13db54645494c3d9c0365e41e446750%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=07150d44-da32-498c-b3bd-06a8a0cd06c6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

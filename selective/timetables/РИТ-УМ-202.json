@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "Василишин І.П., ",
+        "location": " Практична",
+        "url": "https://us02web.zoom.us/j/82556919712?pwd=ZHp1TWF5bXdGdUd4NGRXQTBDTjFEZz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

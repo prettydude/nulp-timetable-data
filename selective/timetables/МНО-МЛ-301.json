@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Маркетинг неприбуткових організацій",
+        "lecturer": "Білик І.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3a618198db50a14f24b113c543a3c04995%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=d534953d-131b-488d-bebb-dc0c56f53353&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Маркетинг неприбуткових організацій",
+        "lecturer": "Білик І.І., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3a618198db50a14f24b113c543a3c04995%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=d534953d-131b-488d-bebb-dc0c56f53353&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    }
+]

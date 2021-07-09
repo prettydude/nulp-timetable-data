@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Супрамолекулярні пристрої: технологія і фізика процесів",
+        "lecturer": "Заіченко О.С., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/3721707621?pwd=L3Q5WjlhVnNxL05mSUlQWEs0em9aZz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20372%20170%207621%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%204RicZD",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Супрамолекулярні пристрої: технологія і фізика процесів",
+        "lecturer": "Заіченко О.С., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/3721707621?pwd=L3Q5WjlhVnNxL05mSUlQWEs0em9aZz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20372%20170%207621%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%204RicZD",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

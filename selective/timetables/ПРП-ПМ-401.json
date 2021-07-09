@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Мастикаш О.В., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/ifs-uyps-oqt",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Мастикаш О.В., ",
+        "location": ", Лабораторна",
+        "url": "",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3ac16e387493884344b06fdff2624c3433%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0aaab2a4-1b00-4090-b6ee-1d9510cd4c9f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3ac16e387493884344b06fdff2624c3433%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0aaab2a4-1b00-4090-b6ee-1d9510cd4c9f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

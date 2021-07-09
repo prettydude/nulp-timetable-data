@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Аналіз природних і стічних вод та методи їх очищення",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лабораторна",
+        "url": "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз природних і стічних вод та методи їх очищення",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

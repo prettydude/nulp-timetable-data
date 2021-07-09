@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Цифрові системи та засоби організації інформаційних мереж",
+        "lecturer": "Бондарєв А.П., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/lookup/eogjf6kxrc",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Цифрові системи та засоби організації інформаційних мереж",
+        "lecturer": "Бондарєв А.П., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/lookup/eogjf6kxrc",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

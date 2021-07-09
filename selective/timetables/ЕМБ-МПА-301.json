@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Економіка малого бізнесу",
+        "lecturer": "Ситник Й.С., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3afa155971875b4d99b04db3ef25eb83a5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d4ec3278-deab-4833-af00-30eed940b922&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Економіка малого бізнесу",
+        "lecturer": "Ситник Й.С., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3afa155971875b4d99b04db3ef25eb83a5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d4ec3278-deab-4833-af00-30eed940b922&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Економіка малого бізнесу",
+        "lecturer": "Ситник Й.С., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3afa155971875b4d99b04db3ef25eb83a5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d4ec3278-deab-4833-af00-30eed940b922&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

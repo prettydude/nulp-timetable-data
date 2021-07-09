@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Кучмій Г.Л., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/channel/19%3aad8b670daae540bdac736187006edee3%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=bd655411-f2cf-4e05-b570-c6a47eb491f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Кучмій Г.Л., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/channel/19%3aad8b670daae540bdac736187006edee3%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=bd655411-f2cf-4e05-b570-c6a47eb491f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

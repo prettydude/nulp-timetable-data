@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "Винничук Р.О., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "Винничук Р.О., ",
+        "location": " Практична",
+        "url": "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

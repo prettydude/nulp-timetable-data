@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Технологія альтернативних палив і олив",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=9eecc27a-6273-41a5-be38-987f42bd7ab9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_109b02c768b245e9a74e6666e14b7007@thread.tacv2&messageId=1612854144731&language=uk-UA",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія альтернативних палив і олив",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=9eecc27a-6273-41a5-be38-987f42bd7ab9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_109b02c768b245e9a74e6666e14b7007@thread.tacv2&messageId=1612854618132&language=uk-UA",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія альтернативних палив і олив",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=9eecc27a-6273-41a5-be38-987f42bd7ab9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_109b02c768b245e9a74e6666e14b7007@thread.tacv2&messageId=1612861435105&language=uk-UA",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Технологія альтернативних палив і олив",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лабораторна",
+        "url": "https://teams.microsoft.com/meetingOptions/?organizerId=9eecc27a-6273-41a5-be38-987f42bd7ab9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_109b02c768b245e9a74e6666e14b7007@thread.tacv2&messageId=1612861435105&language=uk-UA",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

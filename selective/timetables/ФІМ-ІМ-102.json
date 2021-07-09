@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "Дмитрук В.А., ",
+        "location": " Практична",
+        "url": "https://join.skype.com/ckvCIKlBmBvy",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Інтелектуальний бізнес",
+        "lecturer": "Мирощенко Н.Ю., ",
+        "location": " Лекція",
+        "url": "https://zoom.us/j/95696194517?pwd=SDZaUEdXTGhidTlQMXBSOEdkUjhYdz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальний бізнес",
+        "lecturer": "Мирощенко Н.Ю., ",
+        "location": " Практична",
+        "url": "https://zoom.us/j/95696194517?pwd=SDZaUEdXTGhidTlQMXBSOEdkUjhYdz09",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "IT- право",
+        "lecturer": "Демків Р.Я., ",
+        "location": " Лабораторна",
+        "url": "https://us04web.zoom.us/j/3454741568?pwd=NTJsQTBVaUJiYnhGNXlnM3pPeXBRUT09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "IT- право",
+        "lecturer": "Демків Р.Я., ",
+        "location": ", Лабораторна",
+        "url": "https://us04web.zoom.us/j/3454741568?pwd=NTJsQTBVaUJiYnhGNXlnM3pPeXBRUT09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "IT- право",
+        "lecturer": "Демків Р.Я., ",
+        "location": " Лекція",
+        "url": "https://us04web.zoom.us/j/4951446474?pwd=OWVpMmErWWgySjNNRVVnY2VhaWh1dz09",
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

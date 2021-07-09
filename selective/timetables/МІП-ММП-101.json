@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Міжнародне підприємництво",
+        "lecturer": "Калиновська Н.Л., ",
+        "location": " Лекція",
+        "url": "https://teams.microsoft.com/l/team/19%3a1b0867af774d4d67bcd7f0f84f365ea3%40thread.tacv2/conversations?groupId=2433d2ce-02a8-40d7-bd73-a0a30848472e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне підприємництво",
+        "lecturer": "Голомовзий В.М., ",
+        "location": " Практична",
+        "url": "https://teams.microsoft.com/l/team/19%3a1b0867af774d4d67bcd7f0f84f365ea3%40thread.tacv2/conversations?groupId=2433d2ce-02a8-40d7-bd73-a0a30848472e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

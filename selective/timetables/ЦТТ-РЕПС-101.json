@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Цифрове телебачення та телевізійні центри",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лабораторна",
+        "url": "https://meet.google.com/iez-vdyn-vxn",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Цифрове телебачення та телевізійні центри",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/fzy-ihmi-vnq",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

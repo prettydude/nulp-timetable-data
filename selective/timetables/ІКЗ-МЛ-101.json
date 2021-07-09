@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Інформаційне та комп`ютерне забезпечення маркетингової діяльності",
+        "lecturer": "Похильченко О.А., ",
+        "location": " Лекція",
+        "url": "https://us02web.zoom.us/j/83812187829?pwd=dlhaMmZrV3lSd2NRbGZ3TnhXS1Nydz09",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційне та комп`ютерне забезпечення маркетингової діяльності",
+        "lecturer": "Кузьо Н.Є., ",
+        "location": " Лабораторна",
+        "url": "https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційне та комп`ютерне забезпечення маркетингової діяльності",
+        "lecturer": "Кузьо Н.Є., ",
+        "location": ", Лабораторна",
+        "url": "https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09",
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

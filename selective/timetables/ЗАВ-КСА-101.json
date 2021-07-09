@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Засоби автоматизації вимірювань, контролю та діагностики",
+        "lecturer": "Мичуда З.Р., ",
+        "location": " Лекція",
+        "url": "https://join.skype.com/aeEUndgzLYaX",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Засоби автоматизації вимірювань, контролю та діагностики",
+        "lecturer": "Мичуда З.Р., ",
+        "location": " Лабораторна",
+        "url": "https://join.skype.com/aeEUndgzLYaX",
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

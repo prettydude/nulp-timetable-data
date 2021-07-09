@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "Андрусяк І.П., ",
+        "location": " Практична",
+        "url": "https://meet.google.com/epw-djzj-pfa",
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "Андрусяк І.П., ",
+        "location": " Лекція",
+        "url": "https://meet.google.com/epw-djzj-pfa",
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]
